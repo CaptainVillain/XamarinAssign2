@@ -1,0 +1,12 @@
+D:\C# projs\XamarinAssign2\XamarinAssign2\XamarinAssign2\bin\Debug\netstandard2.0\XamarinAssign2.deps.json
+D:\C# projs\XamarinAssign2\XamarinAssign2\XamarinAssign2\bin\Debug\netstandard2.0\XamarinAssign2.dll
+D:\C# projs\XamarinAssign2\XamarinAssign2\XamarinAssign2\bin\Debug\netstandard2.0\XamarinAssign2.pdb
+D:\C# projs\XamarinAssign2\XamarinAssign2\XamarinAssign2\obj\Debug\netstandard2.0\XamarinAssign2.csprojAssemblyReference.cache
+D:\C# projs\XamarinAssign2\XamarinAssign2\XamarinAssign2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\C# projs\XamarinAssign2\XamarinAssign2\XamarinAssign2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\C# projs\XamarinAssign2\XamarinAssign2\XamarinAssign2\obj\Debug\netstandard2.0\XamarinAssign2.csproj.CoreCompileInputs.cache
+D:\C# projs\XamarinAssign2\XamarinAssign2\XamarinAssign2\obj\Debug\netstandard2.0\XamarinAssign2.AssemblyInfoInputs.cache
+D:\C# projs\XamarinAssign2\XamarinAssign2\XamarinAssign2\obj\Debug\netstandard2.0\XamarinAssign2.AssemblyInfo.cs
+D:\C# projs\XamarinAssign2\XamarinAssign2\XamarinAssign2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\C# projs\XamarinAssign2\XamarinAssign2\XamarinAssign2\obj\Debug\netstandard2.0\XamarinAssign2.dll
+D:\C# projs\XamarinAssign2\XamarinAssign2\XamarinAssign2\obj\Debug\netstandard2.0\XamarinAssign2.pdb
